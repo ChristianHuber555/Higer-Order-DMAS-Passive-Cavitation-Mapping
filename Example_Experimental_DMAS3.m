@@ -1,6 +1,6 @@
 clear all;
 addpath("data")
-load("RData_Real_MI_3_fs_10.mat");
+load("RData_Real_MI_3_fs_3.mat");
 RF = RData.data;
 fs = RData.fs;
 
